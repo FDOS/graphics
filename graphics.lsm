@@ -1,0 +1,15 @@
+Begin3
+Title:          Graphics
+Version:        2003jul13
+Entered-date:   10-JUL-2005
+Description:    Allow Prtscr to print graphics screens.  (CGA/EGA/VGA/MCGA,
+                on PostScript, ESC/P Epson 8/24pin and HP PCL printers)
+Keywords:       Prtscr graphics Printer driver DOS
+Author:         Eric Auer eric(#)coli.uni-sb.de
+Maintained-by:  Eric Auer eric(#)coli.uni-sb.de
+Primary-site:   http://www.coli.uni-sb.de/~eric/stuff/soft/
+Alternate-site: http://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/graphics/
+Original-site:  http://www.coli.uni-sb.de/~eric/stuff/soft/
+Platforms:      DOS (nasm)
+Copying-policy: GPL v2
+End
